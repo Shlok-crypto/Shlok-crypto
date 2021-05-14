@@ -22,10 +22,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shlok-crypto&show_icons=true&locale=en&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="shlok-crypto" /></p>
 </P>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shlok-crypto&repo=University-Facial-Multifactor-Authentication-System&theme=radical)](https://github.com/Shlok-crypto/University-Facial-Multifactor-Authentication-System)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shlok-crypto&repo=Hand-Detection_Real-Time_30fps&theme=radical)](https://github.com/Shlok-crypto/Hand-Detection_Real-Time_30fps)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shlok-crypto&repo=Invisibility-Cloak&&theme=radical)](https://github.com/Shlok-crypto/Invisibility-Cloak)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shlok-crypto&repo=Steganography-Software&theme=radical)](https://github.com/Shlok-crypto/Steganography-Software)
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shlok-crypto&repo=University-Facial-Multifactor-Authentication-System&theme=radical)](https://github.com/Shlok-crypto/University-Facial-Multifactor-Authentication-System)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shlok-crypto&repo=Hand-Detection_Real-Time_30fps&theme=radical)](https://github.com/Shlok-crypto/Hand-Detection_Real-Time_30fps)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shlok-crypto&repo=Invisibility-Cloak&&theme=radical)](https://github.com/Shlok-crypto/Invisibility-Cloak)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shlok-crypto&repo=Steganography-Software&theme=radical)](https://github.com/Shlok-crypto/Steganography-Software)
 
 <!---
 Shlok-crypto/Shlok-crypto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
