@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Shlok-crypto
-- 👀 I’m curently interested in ComputerVision, OpenCV, MachineLearning 
+- 👀 I’m curently interested in ComputerVision, Data Analytics, MachineLearning 
 - 🌱 I'm currently learning implementation of Deep Learning into ComputerVision
 - 💞️ I’m looking to collaborate on Drone Detection w/ OpenCV
-- 📫 How to reach me...
+- 📫 How to reach me here
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
