@@ -17,9 +17,10 @@
 <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt=".NET" width="45" height="45"/> </a>
 </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shlok-crypto&show_icons=true&locale=en&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="shlok-crypto" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shlok-crypto&show_icons=true&locale=en&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="shlok-crypto" /></p>
-
+<p align="left"> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shlok-crypto&hide=prs,issues,contribs&show_icons=true&locale=en&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="shlok-crypto" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shlok-crypto&show_icons=true&locale=en&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="shlok-crypto" /></p>
+</P>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shlok-crypto&repo=University-Facial-Multifactor-Authentication-System&theme=radical)](https://github.com/Shlok-crypto/University-Facial-Multifactor-Authentication-System)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shlok-crypto&repo=Hand-Detection_Real-Time_30fps&theme=radical)](https://github.com/Shlok-crypto/Hand-Detection_Real-Time_30fps)
