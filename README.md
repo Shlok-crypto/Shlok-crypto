@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shlok-crypto
+- 👋 Hi, I’m @Shlok Tomar
 - 👀 I’m curently interested in ComputerVision, Data Analytics, MachineLearning 
 - 🌱 I'm currently learning implementation of Deep Learning into ComputerVision
 - 💞️ I’m looking to collaborate on Drone Detection w/ OpenCV
